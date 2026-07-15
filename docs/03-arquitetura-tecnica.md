@@ -20,8 +20,8 @@
 - **GitHub Pages**, servindo direto da **raiz da branch `main`** (não da pasta
   `/docs`, que já está reservada para a documentação do projeto).
 - Deploy = merge na `main` → publicação automática. Sem passo manual.
-- Repositório: `github.com/DavidOliveira2678/PaginaDiretorioAcademico`.
-- URL: `https://davidoliveira2678.github.io/PaginaDiretorioAcademico/`
+- Repositório: `github.com/Diretorio-Academico-ADS-IFPE-Paulista/Diretorio-Academico-ADS-IFPE-Paulista.github.io`.
+- URL: `https://diretorio-academico-ads-ifpe-paulista.github.io/`
 
 ## 3. Estrutura de pastas proposta
 

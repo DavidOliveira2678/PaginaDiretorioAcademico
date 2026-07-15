@@ -4,7 +4,7 @@ Página do Diretório Acadêmico do Instituto Federal de Educação Ciência e T
 ## Documentação do projeto
 
 - [Visão do Projeto](docs/01-visao-do-projeto.md)
-- [Requisitos Candidatos](docs/02-requisitos-candidatos.md)
+- [Requisitos](docs/02-requisitos.md)
 - [Arquitetura Técnica](docs/03-arquitetura-tecnica.md)
 - [Design / UI-UX](docs/04-design-ui-ux.md)
 - [Diagrama UML](docs/05-diagramas-uml.md)

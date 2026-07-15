@@ -10,6 +10,8 @@ Escopo do MVP (fonte da verdade atualizada: board do Trello, coluna Backlog/Read
 - **Contato** — e-mail e formas de contato.
 - **Links para redes sociais** — Instagram do DA.
 - **Calendário** — eventos do DA + datas acadêmicas oficiais do IFPE.
+- **Seção de Membros** — Detalhes dos integrantes do DA.
+
 
 ## Requisitos Não-Funcionais
 

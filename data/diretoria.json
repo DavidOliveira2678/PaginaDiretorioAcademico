@@ -1,0 +1,68 @@
+[
+    {
+        "nome": "Blenda Teodoro",
+        "diretoria": "Direção Geral",
+        "cargo": "Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "David Willyam de Oliveira",
+        "diretoria": "Direção Geral",
+        "cargo": "Vice-Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "Arthur Pereira",
+        "diretoria": "Direção Geral",
+        "cargo": "Membro",
+        "foto": ""
+    },
+    {
+        "nome": "Victor Montes",
+        "diretoria": "Diretoria de Comunicação",
+        "cargo": "Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "Beatriz Pereira",
+        "diretoria": "Diretoria de Comunicação",
+        "cargo": "Membro",
+        "foto": ""
+    },
+    {
+        "nome": "Cintia Ferreira",
+        "diretoria": "Diretoria de Comunicação",
+        "cargo": "Membro",
+        "foto": ""
+    },
+    {
+        "nome": "Deise Ellen",
+        "diretoria": "Diretoria de Comunicação",
+        "cargo": "Membro",
+        "foto": ""
+    },
+    {
+        "nome": "Victor Soares",
+        "diretoria": "Diretoria Financeira",
+        "cargo": "Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "Márcio Luan",
+        "diretoria": "Diretoria Financeira",
+        "cargo": "Vice-Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "Ingrid Vitória",
+        "diretoria": "Diretoria de Mídia",
+        "cargo": "Presidente",
+        "foto": ""
+    },
+    {
+        "nome": "Anderson Batista",
+        "diretoria": "Diretoria Administrativa",
+        "cargo": "Membro",
+        "foto": ""
+    }
+]
